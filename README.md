@@ -4,3 +4,4 @@ This repository is dedicated to testing and comparing various speech-to-text mod
 
 Copyright © 2025 Bilal Ameen. All rights reserved.
 This code is private and may not be used, copied, modified, or distributed without explicit permission.
+ 
